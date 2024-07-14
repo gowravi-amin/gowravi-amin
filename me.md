@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @gowravi-amin
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning html,css,javascript and nodejs
-- 💞️ I’m looking to collaborate on design and web-development projects
 - 📫 How to reach me:
 - 📧 gowraviamin@gmail.com
 
